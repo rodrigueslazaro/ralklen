@@ -3,3 +3,13 @@ Elements, also called *material weaves*, are weaves formed from the interaction 
 
 The elements of the realities are represented in the periodic table below. To understand how these elements came to be, see [[Chemical Balancing]].
 
+| Thread | Natural | Metallic |
+| ------ | ------- | -------- |
+| Deren  | Mercury | Cobalt   |
+| Asor   | Carbon  | Copper   |
+| Zidai  | Oxygen  | Aluminum |
+| Alca   | Silicon | Lead     |
+| Wala   | Water   | Tin      |
+| Deik   | Sulfur  | Bismuth  |
+| Uma    | Neon    | Platinum |
+| Sal    | Calcium | Cesium   |
