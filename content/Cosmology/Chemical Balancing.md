@@ -1,4 +1,6 @@
 
+Chemical balancing is the process by which an *unbalanced* weave, that is a weave with different amounts of Soul and Chaos, becomes *balanced*, that is a weave with equal Soul and Chaos. To understand this process one must first be familiar with [[Chemical Notation]].
+
 The entire goal of the cosmos is to balance Sive and Dive, and thus every interaction of threads seeks balance, and nothing that is unbalanced stays so for very long, this is specially noticeable in material weaves.
 
 Taren has a unique property of always carrying with it a thread of either Intent or Impetus, as well as of being interweaved with all of the other threads of Charge, that is Xenir, Nazem, and IJi, as represented below:
@@ -21,7 +23,7 @@ At this point there are multiple ways to balance this weave, depending on where 
 
 If the threads or weaves needed for the other forms of balancing do not exist around the unbalanced weave in the moment of its formation, one of the following effects will take place to balance the wave, depending on the initial state.
 
-### Natural Wala balancing forming Water, akin to all Taren+Ring
+### Taren+Ring Balancing for Water
 
 If Taren interweaves with a Ring, like Wala, the disparate thread Nazem will increase to be able to receive the field of the analogous thread, in this case Deik from Wala, a process called *disparate accommodation*. 
 
@@ -64,7 +66,7 @@ In chemical notation, this process can be described as follows:
 	- Total Chaos = 12
 	- Status: Balanced
 
-### Natural Asor balancing forming Carbon, akin to all Taren+Flux
+### Taren+Flux Balancing for Carbon
 
 If Taren interweaves with a Flux, like Asor, the disparate thread Nazem will increase to be able to receive the potential field of Asor, the process of *disparate accommodation*.
 
@@ -104,6 +106,11 @@ In chemical notation, this process can be described as follows:
 	- Total Soul = 12
 	- Total Chaos = 12
 	- Status: Balanced
+
+### Taren+Bind Balancing for Oxygen
+
+### Taren+Rush Balancing for Silicon
+
 
 ## Metallic Balancing
 
