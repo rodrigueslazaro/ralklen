@@ -13,7 +13,7 @@ As stated above, however, Taren is always accompanied by some other thread of In
 
 This weave is now unbalanced because the sum of the fundamental threads is not equal:
 - Taren + Xenir + Wala + Iji + Deik = 11 Soul
-- Nazem + Xenir + Iji + Deik = 7 Chaos
+- Nazem + Xenir + Iji = 6 Chaos
 
 At this point there are multiple ways to balance this weave, depending on where this unstable weave formed in the universe and what other threads were around it. The forms of balancing are Natural Balancing, Metallic Balancing, and Pair Balancing, as detailed below.
 
