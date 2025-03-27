@@ -68,7 +68,7 @@ In chemical notation, this process can be described as follows:
 	- Total Chaos = 12
 	- Status: Balanced
 
-### Taren+Flux Balancing for Carbon
+### Taren+Flux Balancing
 
 If Taren interweaves with a Flux, like Asor, both Taren and Nazem will have to increase at the same time to be able to accommodate the potential field of Asor, the process of *parallel accommodation*.
 
@@ -111,7 +111,7 @@ In chemical notation, this process can be described as follows:
 	- Total Chaos = 12
 	- Status: Balanced
 
-### Taren+Bind Balancing for Oxygen
+### Taren+Bind Balancing
 
 If Taren interweaves with a Bind, like Zidai, the disparate thread Taren will increase to be able to receive the field of the analogous thread, in this case Alca from Zidai, the process of *disparate accommodation*. 
 
@@ -157,7 +157,7 @@ In chemical notation, this process can be described as follows:
 	- Total Chaos = 12
 	- Status: Balanced
 
-### Taren+Rush Balancing for Silicon
+### Taren+Rush Balancing
 
 If Taren interweaves with a Rush, like Alca, both Taren and Nazem will have to increase at the same time to be able to accommodate the potential field of Alca, the process of *parallel accommodation*.
 
@@ -202,6 +202,16 @@ In chemical notation, this process can be described as follows:
 
 ## Metallic Balancing
 
+If the the unbalanced material weave formed around threads of Glei or Mavan, these may be used in the process of *disparate accommodation*, generating magnetic or electric elements. Magnetic elements being those interwoven with Glei, and magnetic elements those being interwoven with Mavan.
+
+### Electric Accommodation Balancing
+![[Tin Formation.png#invert|500]]
+### Parallel Electric Accommodation Balancing
+![[Copper Formation.png#invert|500]]
+### Magnetic Accommodation Balancing
+![[Aluminum Formation.png#invert|500]]
+### Parallel Magnetic Accommodation Balancing
+![[Lead Formation.png#invert|500]]
 ## Pair Balancing
 
 ## Summary of Terms
