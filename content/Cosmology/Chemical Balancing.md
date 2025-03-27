@@ -224,7 +224,7 @@ If Taren interweaves with a Ring, like Wala, and there exists close to this weav
 
 Because the thread causing the unbalance is a loop which always carries with a potential field of its analogous thread, the opposite loop will have to emerge in order to receive its disparate thread. This process is similar to the *disparate accommodation* of the natural balancing, but because Glei or Mavan are present, these preexisting threads will be used instead of the more expensive process of increasing a preexisting loop. If Glei is receiving the disparate thread this process is called *magnetic accommodation*, if Mavan is receiving the disparate thread this process is called *electric accommodation*.
 
-Thus the opposite Mavan thread will be used to receive the field of the disparate thread, in this case Wala from Deik, the process of *electric accommodation*. 
+Thus the opposite Mavan thread will be used to receive the field of the disparate thread, in this case Deik from Wala, the process of *electric accommodation*. 
 
 Because Mavan is now part of the weave it will quickly realize its potential field of Sinth by flowing into Wala, finishing the balancing process by *parallel balancing*.
 
@@ -278,11 +278,11 @@ Because the unbalance is caused by a flux, the priority for the interweaving of 
 
 In this case as the unbalance culprit is a flow, some form of *parallel balancing* will have to take place like in natural balance, to allow the flow to move to and from somewhere. One might think, in this case, that there is a possibility for the *parallel balancing* to be realized by Mavan and Glei interweaving with the material at the same time to accommodate the flow, but that's not what happens. *Parallel Motive balancing*, which can be either *parallel electric balancing* or *parallel magnetic balancing*, will always happen with the interweaving of either Glei or Mavan and the increase of either Taren (for Mavan) or Nazem (for Glei). This happens because of the *receiver priority*. For the case of a flux like Asor, for example, Mavan will be interwoven first, and as it brings with it its potential field of Sinth, the Sinth will instantly invade an increasing Taren, which already has a potential field of Asor which at the same instant flowed into Mavan. Were Glei to try and be used for this balancing, it would bring with it its potential field of T'ai, a flux, but there's no space for T'ai in the interweaving because Mavan is already receiving the flux of Asor. The process happens with rush, but with Glei and Nazem for balance.
 
-Thus first Taren will increase at the same instant as Mavan is interwoven allowing the accommodation of the potential field of Asor, the process of *parallel electric accommodation*.
+Thus first Taren will increase at the same instant as Mavan is interwoven, allowing the accommodation of the potential field of Asor, the process of *parallel electric accommodation*.
 
 Because Mavan is now part of the weave its potential field of Sinth will realize into Taren, finishing the balancing process by *parallel balancing*.
 
-This same process happens in the formation of Cobalt, starting with Intent Ring Deren.
+This same process happens in the formation of Bismuth, starting with Impetus flux Deik.
 
 ![[Copper Formation.png#invert|500]]
 
@@ -323,10 +323,104 @@ In chemical notation, this process can be described as follows:
 	- Status: Balanced
 
 ### Magnetic Accommodation Balancing
+
+If Taren interweaves with a bind, like Zidai, and there exists close to this weave a thread of Glei, a series of balancing steps will take place which will create the balanced weave of Aluminum, a [[Properties of Metals|weakly magnetic metal]].
+
+First the opposite Glei thread will be used to receive the field of the disparate thread, in this case Alca from Zidai, the process of *magnetic accommodation*. 
+
+Because Glei is now part of the weave it will quickly realize its potential field of T'ai by flowing into Zidai, finishing the balancing process by *parallel balancing*.
+
+This same process happens in the formation of Platinum, starting with Impetus bind Uma.
+
 ![[Aluminum Formation.png#invert|500]]
 
+In chemical notation, this process can be described as follows:
+
+1) In the Unbalanced Oxygen we have:
+	- Taren 3S
+	- Xenir 2S1C
+	- Iji 1S2C
+	- Alca 2C
+	- Zidai 3C
+	- Nazem 3C
+	- Total Soul = 6
+	- Total Chaos = 11
+	- Status: Unbalanced
+
+2) After electric accommodation takes place we have:
+	- Taren 3S
+	- Glei 3S
+	- T'ai 2S
+	- Xenir 2S1C
+	- Iji 1S2C
+	- Alca 1S2C
+	- Zidai 3C
+	- Nazem 3C
+	- Total Soul = 12
+	- Total Chaos = 11
+	- Status: Semi-balanced
+
+3) After parallel balancing takes place we have:
+	- Taren 3S
+	- Glei 3S
+	- T'ai 2S1C
+	- Xenir 2S1C
+	- Iji 1S2C
+	- Alca 1S2C
+	- Zidai 3C
+	- Nazem 3C
+	- Total Soul = 12
+	- Total Chaos = 12
+	- Status: Balanced
+
 ### Parallel Magnetic Accommodation Balancing
+
+If Taren interweaves with a rush, like Alca, and there exists close to this weave a thread of Glei, a series of balancing steps will take place which will create the balanced weave of Lead, a [[Properties of Metals|weakly magnetic metal]].
+
+First Nazem will increase at the same instant as Glei is interwoven, allowing the accommodation of the potential field of Alca, the process of *parallel magnetic accommodation*.
+
+Because Glei is now part of the weave its potential field of T'ai will realize into Nazem, finishing the balancing process by *parallel balancing*.
+
+This same process happens in the formation of Cesium, starting with Impetus rush Sal.
+
 ![[Lead Formation.png#invert|500]]
+
+In chemical notation, this process can be described as follows:
+
+1) In the Unbalanced Silicon we have:
+	- Taren 3S
+	- Xenir 2S1C
+	- Alca 2C
+	- Iji 1S2C
+	- Nazem 3C
+	- Total Soul = 6
+	- Total Chaos = 8
+	- Status: Unbalanced
+
+2) After the parallel accommodation takes place we have:
+	- Taren 3S
+	- Glei 3S
+	- T'ai 2S
+	- Xenir 2S1C
+	- Alca 1S2C
+	- Iji 1S2C
+	- 2 Nazem 3C
+	- Total Soul = 12
+	- Total Chaos = 11
+	- Status: Semi-balanced
+
+3) After the parallel balancing takes place we have:
+	- Taren 3S
+	- Glei 3S
+	- Xenir 2S1C
+	- T'ai 2S1C
+	- Alca 1S2C
+	- Iji 1S2C
+	- 2 Nazem 3C
+	- Total Soul = 12
+	- Total Chaos = 12
+	- Status: Balanced
+
 ## Pair Balancing
 
 ## Summary of Terms
