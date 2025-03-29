@@ -1,0 +1,1 @@
+Karia, 'land' in [[Nat'orian]], is the name of the planet which is the main stage of [[The Song of the Fallen|TSTF]]. Its main continents are [[Hallen]] and [[Marithia]].

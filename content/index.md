@@ -8,6 +8,7 @@ This universe has a complex set of rules of its own, rules explaining the most f
 
 - [[Cosmology/index|🌌 Cosmology]]
 - [[Weaving/index|🪡 Weaving]]
+- [[Geography/index|🌐 Geography]]
 - [[History/index|📜 History]]
 - [[Languages/index|🔡 Languages]]
 - [[Stories/index|⚔️ Stories]]

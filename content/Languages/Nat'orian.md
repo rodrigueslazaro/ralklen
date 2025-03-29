@@ -1,0 +1,1 @@
+Nat'orian was the language spoken in the Empire of Nat'oria during the Age of the Empires. It later evolved into [[Malkani]], which later evolved into modern [[Rokiani]] and [[Petrusian]] (with influences from [[Almani]]).
