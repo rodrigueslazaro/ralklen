@@ -1,0 +1,3 @@
+After the Fall of Malkain circa 800 years ago there was a period of great instability, the War of One Hundred Years, when the houses of the old empire fought for control and power over the fractured remnants of Malkain. The countries that formed after this period are known as the Malkani States, those being Castalin, Helfen, Jumanor, Tarin, Dalman, Jarenen, Valelhandir, and Elmandor.
+
+Over time the states of [[Castalin]], [[Helfen]], [[Jumanor]], and [[Tarin]], all in the central region of Hallen, a land with fertile soils and plenty of natural resources, established themselves as the most powerful states of Hallen. Because they all claim to possess the original crown of the old emperor, they became known as the Four Crowns of Malkain, or simply the Four Crowns.
