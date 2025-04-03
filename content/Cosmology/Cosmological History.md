@@ -1,0 +1,5 @@
+In the Dawn period, approximately from the first instant of the universe to 3 million years, matter is still forming and settling in its final position, forming the planet, the moons, the stars, and all other space objects. The universe is too hot to support any life during this period.
+
+After the universe have settled the Noon period begins, the longest period of the universe, from year 3 to 800 million, where the spaces of Sive and Dive are in such an energetic state that all reality exists as expected. Life thrives in this period.
+
+In the last years of the universe, from 800 million to 1 billion years, the universe enters the Dusk period, where the spaces of Sive and Dive fall below the energetic threshold needed to support reality steadily, giving way more and more to the reflections of the previous cycles until is collapses and condenses once more. Life weakens until it fades into pure memory in the last 100 million years.

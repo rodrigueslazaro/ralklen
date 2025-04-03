@@ -6,7 +6,7 @@ To understand the cosmology of Ralklen one must first understand what this unive
 
 The source of energy in the universe are the spaces of [[Fundamental Spaces|Sive]] and [[Fundamental Spaces|Dive]], two hyperdimensional spaces that produce and exchange orderly and chaotic energy, imprinting effects such as mass, heat, and other properties in the four dimensional space of reality.
 
-The universe is formed by [[Threads|Aspects]] and their [[Threads|Threads]], these oscillating lines of energy and their interactions are the foundation of everything that exists.
+The universe is formed by [[Aspects]] and their [[Threads]], these oscillating lines of energy and their interactions are the foundation of everything that exists.
 
 The Aspects that form the known realities are [[Aspects|Charge, Motive, Intent, and Impetus]].
 
