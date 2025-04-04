@@ -1,0 +1,1 @@
+Valani was the language spoken by the val during the [[Age of the Val]].
