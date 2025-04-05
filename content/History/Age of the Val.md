@@ -1,0 +1,1 @@
+Under the rule of the val, however, these half-blood humans were a taboo, and their weaving abilities were quickly cut out of them when they were born. After the demise of the val, however, the valani blood and power was able to run freely through the next human generations, up to this day.

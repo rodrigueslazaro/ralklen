@@ -4,9 +4,9 @@ title: Aspects
 
 The Aspects which form the [[Realities|known realities]] are Charge, which defines properties related to mass and presence. Motive, which defines properties related to energy. Intent, which defines properties related to life. And Impetus, which defines properties related to the divine.
 
-## Charge
+## Intent
 
-The Aspect of Charge is found in pure threads shaping the movement of life, but it also has another property of interweaving with Taren to form *material weaves*.
+The Aspect of Intent is found in pure threads shaping the movement of life, but it also has another property of interweaving with Taren to form *material weaves*.
 
 - Deren - mind, forms the reasoning skills of life and the element mercury;
 - Asor - action, forms the movement of life, muscles, and the element carbon;
