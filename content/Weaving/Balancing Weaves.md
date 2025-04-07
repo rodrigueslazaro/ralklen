@@ -155,6 +155,6 @@ Balancing Sal with T'ai can be done if the weaver also wishes to move or halt th
 
 Balancing Sal with Xenir can be done if the weaver also wishes to increase the weight of the creature.
 
-### Sal and demons
+### Sal and divines
 
-Similar rules to those detailed in the section [[#Deik and gods]] apply for Sal, including the care not to feed or to feed divines if the weaver so wishes, and the acquiring of a [[Classes of Divines|follower divine]].
+Similar rules to those detailed in the section [[#Deik and divines]] apply for Sal, including the care not to feed or to feed divines if the weaver so wishes, and the acquiring of a [[Classes of Divines|follower divine]].
