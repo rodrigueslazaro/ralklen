@@ -1,7 +1,7 @@
 
 ## Domain Divines
 
-[[Divine Beings|Divines]] exist and have their strength as long as conscious beings of Falmora are evoking Deik or Sal in the specific patterns they need. Known and followed divines such as [[Dalharin Faith|Dala and Alad]], the [[Phul'Maran Faith|Phul'Maran]], [[Ikha]], and many others with followers in Hallen and all other lands of Falmora, are strong enough that they create *domains* in space where no other divines can enter.
+[[Divine Beings|Divines]] exist and have their strength as long as conscious beings of Falmora are evoking Deik or Sal in the specific patterns they need. Known and followed divines such as [[Dalharin Faith|Dala and Alad]], the [[Phul'Maran Faith|Phul'Maran]], [[Blueleaf Faith]], and many others with followers in Hallen and all other lands of Falmora, are strong enough that they create *domains* in space where no other divines can enter.
 
 These divine domains are centered around the average *faithful core* of the community of people that follow them. The domains are stronger in the center where the divine resides and pushes other divines away more strongly the closer they try to get to the core. 
 

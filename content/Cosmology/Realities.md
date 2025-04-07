@@ -11,12 +11,12 @@ The figure below shows the aspects and threads which form each of the known real
 
 Reality is the most conventional reality, having the common properties of matter and energy and the capacity to form life and conscience.
 
-## Aquin and Nephin
+## Aquin
 
-Aquin and Nephin are two mirror realities, formed by opposite loops of Impetus. Both have the same material properties of Reality, but they lack Intent and thus any form of life. They are also mono-elemental, Aquin being formed only by water and its metallic form aluminum, and Nephin being formed only by neon and its metallic form platinum.
+Aquin is formed by opposite loops of Impetus. It has the same material properties of Reality, but lacks Intent and thus any form of life. The only elements that exist in Aquin are water and its metallic form aluminum, and neon and its metallic form platinum.
 
-During the [[Age of the Val]] they used these parallel realities to facilitate transport at long distances with ships and airships.
+During the [[Age of the Val]] they used this parallel reality to facilitate transport at long distances.
 
-## Heaven and Hell
+## Heaven
 
-Heaven and Hell are also mirror realities, formed by parallel flows of Impetus. Both lack any material properties of reality, and thus are non-elemental, but they share Motive and Intent, thus having energy and life, the living creatures of these realities are called [[Divine Beings|gods and demons]].
+Heaven is formed by parallel flows of Impetus. Both lack any material properties of reality, and thus are non-elemental, but they share Intent, thus having life. The living creatures of this realities are called [[Divine Beings|divines]].
