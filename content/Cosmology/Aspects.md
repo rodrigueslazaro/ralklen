@@ -26,6 +26,9 @@ The Aspect of Motive forms the [[Energies|fieldless flows]] and interweaves with
 
 ![[Glei.png#invert|500]]
 
+Glei realizes itself through T'ai
+Mavan realizes itself through Sinth
+
 ## Impetus
 
 The Aspect of Impetus forms the semi-material properties of the divine as well as their ways of interacting with Reality and the parallel universes of Aquin and Nephin.

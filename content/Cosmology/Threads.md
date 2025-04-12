@@ -54,6 +54,8 @@ The effect is a gradient, increasing as it reaches the opposite space and reachi
 - Semi-realization: as the thread cover the second third of the distance it realizes its effects only sometimes, and most of the times it does realize the effects may not be what is expected given the vibration of the thread.
 - Full-realization: as the thread covers the last third of the distance and enters the opposite space its full effects are realized, as expected.
 
+These regions always exist in the first, second, and third thirds of any flow thread, independent of the length of the thread.
+
 ![[Thread Realization Zones.png#invert|700]]
 
 In the microscopic scale most threads move through, these realization spaces have almost no consequence, but they are relevant in the context of the [[Cosmological Motion|Cosmological Movement]].
