@@ -1,0 +1,2 @@
+
+Elan vi'Levan /ɬeⱱan/ was a researcher of ancient history and languages under the Temple of Gadri. He was born and raised in Valumn, and later restored the Focus Peaks with the knowledge recovered from the Age of the Empires, helping to end the Forsaken War.

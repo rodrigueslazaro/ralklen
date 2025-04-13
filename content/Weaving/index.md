@@ -11,3 +11,4 @@ When humans and the other peoples of Karia first began to weave the *flow* of th
 Weaves must always be balanced, that is, they need to exist with equal amounts of Soul and Chaos. However the [[Balancing Weaves|process of balancing]] is a delicate one, for each thread has an effect by itself and some other effect when weaved with other threads.
 
 Each weaver has an inherent [[Weaving Affinity|strength and affinity]] with an Aspect and a Thread, and each Thread and Aspect has a fixed effort needed to prime and weave it. This affinity creates different classes of weaver, which will tend to use some threads over others, and each class has its own techniques for weaving.
+
