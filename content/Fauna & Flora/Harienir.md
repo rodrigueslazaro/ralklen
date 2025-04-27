@@ -1,0 +1,1 @@
+The harienir is a wild but able to be domesticated animal common to the region of The Claw. They are used mainly for transport and for light cargo, for they cannot carry much more than their body weight while flying. The riders of harienir are called arenvielle, and they acquire great prestige and status by gaining the title.

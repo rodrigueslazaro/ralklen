@@ -2,9 +2,9 @@
 title: Cosmology
 ---
 
-To understand the cosmology of Ralklen one must first understand what this universe is made out of, where it came from and where it's going.
+To understand the cosmology of Ralklen one must first understand what the universe is made out of, where it came from and where it's going.
 
-The source of energy in the universe are the spaces of [[Fundamental Spaces|Sive]] and [[Fundamental Spaces|Dive]], two hyperdimensional spaces that produce and exchange orderly and chaotic energy, imprinting effects such as mass, heat, and other properties in the four dimensional space of reality.
+The sources of energy in the universe are the spaces of [[Fundamental Spaces|Sive]] and [[Fundamental Spaces|Dive]], two hyperdimensional spaces that produce and exchange orderly and chaotic energy, imprinting effects such as mass, heat, and other properties in the four dimensional space of reality.
 
 The universe is formed by [[Aspects]] and their [[Threads]], these oscillating lines of energy and their interactions are the foundation of everything that exists.
 

@@ -16,3 +16,4 @@ Order is paramount to the Karemni. When a child is born they take one of the pre
 12. ...
 
 The Karmeni do not bury their dead in the ground. Each village or settlement finds the highest accessible point nearby and carry their dead to the top so that they can be returned to the air by vultures and other creatures. 
+
